@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PurchaseHandler()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PurchaseHandler\n
+comment1.params=successor
+comment1.target=void\ setSuccessor(PurchaseHandler)
+comment2.params=request
+comment2.target=void\ handleRequest(PurchaseRequest)
+comment3.params=y
+comment3.target=int\ sampleMethod(int)
+comment3.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=4
