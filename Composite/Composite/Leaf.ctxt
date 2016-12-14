@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Leaf(java.lang.String)
+comment1.params=lvl
+comment1.target=void\ display(int)
+comment2.params=c
+comment2.target=void\ add(Component)
+comment3.params=c
+comment3.target=void\ remove(Component)
+numComments=4
